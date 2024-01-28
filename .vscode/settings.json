@@ -1,0 +1,4 @@
+{
+    "cloudcode.compute.sshInternalIp": true,
+    "cloudcode.active-kubeconfig": "aenz"
+}

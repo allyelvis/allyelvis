@@ -2,6 +2,7 @@
     "recommendations": [
         "cs50.ddb50",
         "angelgonzalez.loremzombie",
-        "genieai.chatgpt-vscode"
+        "genieai.chatgpt-vscode",
+        "googlecloudtools.cloudcode"
     ]
 }

@@ -19,7 +19,8 @@
 		"vscode": {
 			"extensions": [
 				"angelgonzalez.loremzombie",
-				"genieai.chatgpt-vscode"
+				"genieai.chatgpt-vscode",
+				"googlecloudtools.cloudcode"
 			]
 		}
 	}
