@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"cloudcode.compute.sshInternalIp": true,
+		"cloudcode.active-kubeconfig": "aenz",
+		"DockerRun.DisableDockerrc": true
+	},
+	"extensions": {
+		"recommendations": [
+			"george3447.docker-run"
+		]
+	}
+}
