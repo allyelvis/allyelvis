@@ -2,9 +2,9 @@
   "name": "allyelvis",
   "version": "1.0.0",
   "description": "- 👋 Hi, I’m @allyelvis - 👀 I’m interested in develloing apps - 🌱 I’m currently learning  - 💞️ I’m looking to collaborate on apps developping and deploying - 📫 How to reach me whatsapp +25779457170 email:allyelvis6569@gmail.com - 😄 Pronouns: ... - ⚡ Fun fact: ...",
-  "main": "src/crm/index.js",
+  "main": "index.js",
   "scripts": {
-    "test": "exit 0",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
