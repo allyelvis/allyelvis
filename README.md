@@ -23,7 +23,7 @@
 - Advanced POS and inventory management system integrated with EBMS Burundi.
 - Features: Real-time invoicing, stock management, and analytics.
 
-### [Aenzbi eCommerce](https://github.com/allyelvis/aeNext.js.git)
+### [Aenzbi eCommerce](https://github.com/allyelvis/shop.git)
 - E-commerce platform powered by Next.js with real-time integrations.
 - Features: Product management, user-friendly UI, and EBMS syncing.
 
