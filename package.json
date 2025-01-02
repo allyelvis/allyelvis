@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jupyter": "^0.0.0",
+    "lab": "^18.0.2"
+  }
 }
