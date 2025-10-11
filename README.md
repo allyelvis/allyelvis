@@ -97,11 +97,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=allyelvis&show_icons=true&theme=tokyonight" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allyelvis&layout=compact&theme=tokyonight" />
-</p>
 
+![Ally Elvis' GitHub stats](https://github-readme-stats.vercel.app/api?username=allyelvis&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allyelvis&layout=compact&count_private=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=allyelvis&theme=tokyonight&count_private=true)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=allyelvis&theme=onedark&margin-w=15&row=1" />
 </p>
