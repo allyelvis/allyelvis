@@ -1,72 +1,182 @@
-<!-- Public GitHub Profile for Ally Elvis -->
+# 👋 Hi, I'm Ally Elvis Nzeyimana
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1055,100:7597de&height=230&section=header&text=Ally%20Elvis%20🚀&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+**Founder @ Aenzbi Software & Internet Company**  
+Cloud Developer | Full-Stack Engineer | Fintech & ERP Innovator  
 
-<h3 align="center">🌍 Building Cloud, Fintech & ERP Solutions</h3>
-
-<p align="center">
-  <a href="https://github.com/allyelvis">
-    <img src="https://komarev.com/ghpvc/?username=allyelvis&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
-  </a>
-  <a href="https://github.com/allyelvis?tab=followers">
-    <img src="https://img.shields.io/github/followers/allyelvis?style=social" alt="followers" />
-  </a>
-</p>
+I build scalable fintech, ERP, and eCommerce solutions on modern cloud platforms. My work focuses on production-ready systems with full observability, automated deployments, and secure architecture.
 
 ---
 
-## 🧠 About Me
+## 🛠 Stack & Skills
 
-💡 Passionate about **full-stack development**, **AI-powered systems**, and **cloud platforms**.  
-⚙️ Experienced in **ERP, POS, Fintech, eCommerce**, and **business automation**.  
-🌍 Founder of **Aenzbi Software & Internet Company** — delivering modern digital ecosystems.  
-📍 Based in **Burundi**, collaborating globally.  
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+**Languages & Frameworks:** `Python` · `Django` · `Go` · `TypeScript` · `React` · `Next.js` · `Flutter` · `Laravel`  
+**Cloud & DevOps:** Google Cloud Platform (GCP) · Firebase · Cloud Run · GKE · CI/CD · Docker · Kubernetes  
+**Databases & APIs:** PostgreSQL · MySQL · Firestore · GraphQL · REST  
+**Specialties:** ERP/POS, Digital Banking, eCommerce, Blockchain DApps, Observability, Performance Monitoring
 
 ---
 
-### ⚙️ Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allyelvis&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=allyelvis&theme=tokyonight)
 
 ---
 
-### ☁️ Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI/CD-0078D7?style=for-the-badge&logo=azure-pipelines&logoColor=white)
+## 🏆 Trophies & Ranks
+
+![trophy](https://github-profile-trophy.vercel.app/?username=allyelvis&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)
 
 ---
 
-### 🧩 Databases & APIs
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+## 🔹 Recent Projects
+
+| Project | Description |
+|---------|-------------|
+| 🛍️ **Aenzbi ERP Suite** | Full-featured ERP for POS, inventory, CRM, purchase & logistics management |
+| 💳 **Digital Banking Wallet** | Flutter + Django wallet & banking app for secure payments and transfers |
+| 🧾 **Sokoni eCommerce** | Firebase-based online marketplace for multi-vendor shops |
+| 🏨 **Hotel & Restaurant PMS** | Property & staff management with real-time analytics and booking |
+| 🔗 **Blockchain DApp Prototype** | Supply chain tracking and logistics automation using smart contracts |
+
+---
+
+## ☁️ Cloud Overview (Auto-Updating Daily)
+
+- **Active Google Cloud Projects:** 🟢 {{GCP_PROJECT_COUNT}}  
+- **Compute Instances:** {{GCP_VM_COUNT}}  
+- **Firebase Apps:** {{FIREBASE_APPS}}  
+- **Latest Deployment:** {{LATEST_DEPLOYMENT_DATE}}  
+
+### 📈 Performance Snapshot
+- CPU Usage: {{GCP_CPU_USAGE}}%  
+- Memory Usage: {{GCP_MEMORY_USAGE}}%  
+- Network Health: {{GCP_NETWORK_HEALTH}}%  
+- Uptime: {{GCP_UPTIME}}%  
+
+> _Metrics are fetched securely using a read-only Google Service Account. No sensitive credentials or customer data are exposed._
+
+---
+
+## 🚦 Observability
+
+I implement full **Cloud Observability** with:
+
+- **Cloud Logging:** Structured logs for application state, business events, and errors  
+- **Cloud Monitoring:** Custom metrics, SLIs/SLOs, dashboards, and alerting  
+- **Cloud Trace:** Distributed request tracing for high-latency detection  
+- **Cloud Profiler:** CPU & memory flame graphs for code-level performance insights  
+
+---
+
+## 🔗 Quick Links
+
+| Resource | Link |
+|----------|------|
+| GitHub Profile | [https://github.com/allyelvis](https://github.com/allyelvis) |
+| Aenzbi Website | [https://aenzbi.com](https://aenzbi.com) |
+| GCP Console | [Google Cloud Console](https://console.cloud.google.com/) |
+
+---
+
+### 🔒 Privacy & Confidentiality
+
+All cloud metrics are read via **secure, read-only APIs** and stored **only as aggregate values** in the README.  
+Tokens are stored in **GitHub Secrets** and never exposed publicly.
+
+---
+
+_Last auto-updated: {{TIMESTAMP}}_
+# 👋 Hi, I'm Ally Elvis Nzeyimana
+
+**Founder @ Aenzbi Software & Internet Company**  
+Cloud Developer | Full-Stack Engineer | Fintech & ERP Innovator  
+
+I build scalable fintech, ERP, and eCommerce solutions on modern cloud platforms. My work focuses on production-ready systems with full observability, automated deployments, and secure architecture.
+
+---
+
+## 🛠 Stack & Skills
+
+**Languages & Frameworks:** `Python` · `Django` · `Go` · `TypeScript` · `React` · `Next.js` · `Flutter` · `Laravel`  
+**Cloud & DevOps:** Google Cloud Platform (GCP) · Firebase · Cloud Run · GKE · CI/CD · Docker · Kubernetes  
+**Databases & APIs:** PostgreSQL · MySQL · Firestore · GraphQL · REST  
+**Specialties:** ERP/POS, Digital Banking, eCommerce, Blockchain DApps, Observability, Performance Monitoring
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allyelvis&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=allyelvis&theme=tokyonight)
+
+---
+
+## 🏆 Trophies & Ranks
+
+![trophy](https://github-profile-trophy.vercel.app/?username=allyelvis&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)
+
+---
+
+## 🔹 Recent Projects
+
+| Project | Description |
+|---------|-------------|
+| 🛍️ **Aenzbi ERP Suite** | Full-featured ERP for POS, inventory, CRM, purchase & logistics management |
+| 💳 **Digital Banking Wallet** | Flutter + Django wallet & banking app for secure payments and transfers |
+| 🧾 **Sokoni eCommerce** | Firebase-based online marketplace for multi-vendor shops |
+| 🏨 **Hotel & Restaurant PMS** | Property & staff management with real-time analytics and booking |
+| 🔗 **Blockchain DApp Prototype** | Supply chain tracking and logistics automation using smart contracts |
+
+---
+
+## ☁️ Cloud Overview (Auto-Updating Daily)
+
+- **Active Google Cloud Projects:** 🟢 {{GCP_PROJECT_COUNT}}  
+- **Compute Instances:** {{GCP_VM_COUNT}}  
+- **Firebase Apps:** {{FIREBASE_APPS}}  
+- **Latest Deployment:** {{LATEST_DEPLOYMENT_DATE}}  
+
+### 📈 Performance Snapshot
+- CPU Usage: {{GCP_CPU_USAGE}}%  
+- Memory Usage: {{GCP_MEMORY_USAGE}}%  
+- Network Health: {{GCP_NETWORK_HEALTH}}%  
+- Uptime: {{GCP_UPTIME}}%  
+
+> _Metrics are fetched securely using a read-only Google Service Account. No sensitive credentials or customer data are exposed._
+
+---
+
+## 🚦 Observability
+
+I implement full **Cloud Observability** with:
+
+- **Cloud Logging:** Structured logs for application state, business events, and errors  
+- **Cloud Monitoring:** Custom metrics, SLIs/SLOs, dashboards, and alerting  
+- **Cloud Trace:** Distributed request tracing for high-latency detection  
+- **Cloud Profiler:** CPU & memory flame graphs for code-level performance insights  
+
+---
+
+## 🔗 Quick Links
+
+| Resource | Link |
+|----------|------|
+| GitHub Profile | [https://github.com/allyelvis](https://github.com/allyelvis) |
+| Aenzbi Website | [https://aenzbi.com](https://aenzbi.com) |
+| GCP Console | [Google Cloud Console](https://console.cloud.google.com/) |
+
+---
+
+### 🔒 Privacy & Confidentiality
+
+All cloud metrics are read via **secure, read-only APIs** and stored **only as aggregate values** in the README.  
+Tokens are stored in **GitHub Secrets** and never exposed publicly.
+
+---
+
+_Last auto-updated: {{TIMESTAMP}}_
+![Redis](https://img.shiels.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=swagger&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
 
